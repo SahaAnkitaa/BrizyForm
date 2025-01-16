@@ -2,9 +2,9 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",  // Change this if your main file is different (like api/index.js)
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js",  // This should match your main server file
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -18,7 +18,8 @@
     "express": "^4.21.2"
   },
   "engines": {
-    "node": "14.x"  // Specify the Node.js version for deployment; adjust as necessary
+    "node": "14.x"
   }
 }
+
 
